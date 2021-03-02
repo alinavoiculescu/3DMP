@@ -1,7 +1,4 @@
 # 3DMP
 
 
-Project 1 -> 3D pixel art style keychain
-          - it contains: - .stl object
-                         - .f3d file
-                         - print screen of the slicer window (Prusa Slicer)
+Project 1 -> 3D pixel art style keychain. It contains: an .stl object, a .f3d file, a print screen of the slicer window (Prusa Slicer).
