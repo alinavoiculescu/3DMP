@@ -1,0 +1,1 @@
+Homework 4 -> *Crank and Slotted Link Mechanism - course, Crank Slider Mechanism - course, Yoke Mechanism, Flake Crank Mechanism*; it contains an .stl object and a .f3d file for each one of them, and a folder that contains an .stl for each component of mechanisms.
