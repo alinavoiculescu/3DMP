@@ -25,3 +25,12 @@ Clockwork means, literally, "working like a clock" (an old-fashioned clock, that
 
 This is how a clockwork toy works:
 If you wind up a clockwork car as much as you can, then let the key go, without putting the car on the ground, you'll hear the gears inside the mechanism screech and squeal as the spring releases its energy amazingly quickly. Since there's very little resistance except friction (the rubbing force between touching surfaces) in the gearbox, there's nothing really for the mechanism to work against and it can deliver energy very fast. Put it on a rug and the energy is delivered much more slowly (and quietly). Now the spring has to work against the resistance of the fabric, which works like a brake on the wheels and the gears that power them.
+
+
+
+
+> ## Tasks
+> - [x] Task 1
+> - [x] Task 2
+> - [x] Task 3
+> - [ ] Task 4
