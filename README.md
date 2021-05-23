@@ -10,4 +10,4 @@ This repository contains all my projects related to the Introduction to 3D Model
 
 - [x] Homework 4 -> *Crank and Slotted Link Mechanism - course, Crank Slider Mechanism - course, Yoke Mechanism, Flake Crank Mechanism*; it contains an .stl object and a .f3d file for each one of them, and a folder that contains an .stl for each component of mechanisms.
 
-- [ ] Final project *(almost completed)* -> *Windup motor car toy*; it contains a .f3d file.
+- [x] Final project -> *Windup motor car toy*; it contains a .f3d file.
