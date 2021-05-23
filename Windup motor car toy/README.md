@@ -33,4 +33,7 @@ If you wind up a clockwork car as much as you can, then let the key go, without 
 > - [x] Task 1
 > - [x] Task 2
 > - [x] Task 3
-> - [ ] Task 4
+> - [x] Task 4
+
+
+:heavy_check_mark: TASKS COMPLETED :heavy_check_mark:
